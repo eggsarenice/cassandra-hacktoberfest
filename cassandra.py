@@ -14,7 +14,7 @@ tech2 = input("I know how to build apps.")
 
 outdoor2 = input("I'm good with tying knots.")
 
-music2 = input("I play a musical instrument well.")
+music2 = input("I play a musical instrument.")
 
 
 tech_final = int(tech1) + int(tech2)
